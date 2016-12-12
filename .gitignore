@@ -1,0 +1,12 @@
+Library/
+Temp/
+project.CSharp.csproj
+project.CSharp.Editor.csproj
+project.CSharp.Plugins.csproj
+project.sln
+project.userprefs
+project.sln
+.vs/
+Assembly-CSharp.csproj
+obj/
+project.userprefs
